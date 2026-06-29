@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hello Jassica and Hello DevOps.
-
-=======
-Linux Commands
->>>>>>> ad6a94e (Initial Commit)
+Hello Jassica and DevOps.
