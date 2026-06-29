@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Hello Jassica and DevOps.
-=======
-Hello Jassica and Hello DevOps.
-Linux Commands
 
->>>>>>> dev
